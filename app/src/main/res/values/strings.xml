@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Tugas2MCAviana</string>
+
+    <string name="alascan">
+        Alaskan Malamute memiliki tubuh atletis dan kuat yang dirancang untuk stamina dan kekuatan. Kecerdasan jenis anjing besar ini juga membuatnya mudah untuk dilatih, meskipun Alaskan Malamute harus tetap sibuk untuk menghindari kebosanan.
+        \nAlaskan Malamute memiliki tubuh atletis dan kuat yang dirancang untuk stamina dan kekuatan. Kecerdasan jenis anjing besar ini juga membuatnya mudah untuk dilatih, meskipun Alaskan Malamute harus tetap sibuk untuk menghindari kebosanan.
+    </string>
+    <string name="Corgi">
+        Corgi terkenal dengan postur tubuh anjing yang mungil dan senang bermain.
+        Dengan tubuh panjang dan kaki yang pendek, Corgi adalah salah satu ras anjing kecil paling menggemaskan. Karena mereka setia dan penyayang, ras anjing ini menjadi teman yang hebat bagi orang tua hewan peliharaan untuk pertama kalinya. Mengadopsi metode pelatihan positif sejak usia dini dapat membantu Corgi tumbuh menjadi anjing yang percaya diri.
+    </string>
+    <string name="Shitzu">
+         Shitzu Dikenal dengan sifat ramah dan penyayang, Shih Tzu cocok sebagai teman setia. Jika Anda mengadopsi Shih Tzu, kemungkinan besar ia akan selalu berselimut di pangkuan Anda saat Anda menonton TV atau membaca koran. Dengan wajah bulat, hidung pesek, mata besar yang berbinar, dan telinga terkulai, anjing ini bisa mencuri hati siapa pun. Karena Shih Tzu adalah anjing yang cerdas, mereka dapat dengan cepat beradaptasi dengan metode pelatihan penguatan positif.
+         Namun, mereka dikenal agak keras kepala; oleh karena itu, sebaiknya mulai pelatihan sejak usia dini.
+    </string>
+    <string name="Chihuahua">
+        Chihuahua memiliki kepribadian yang pemberani dan tingkat energi yang tinggi. Anjing ini mungkin memiliki postur tubuh yang kecil, tetapi tahu bagaimana melibatkan diri dalam pertarungan yang kuat. Meskipun merupakan ras yang dapat dilatih, Anda mungkin perlu lebih sabar dengan Chihuahua Anda karena sifat keras kepala mereka. Namun, karena mereka adalah teman setia yang mencari perhatian dari pengasuhnya, Anda harus memanfaatkan sebaik mungkin metode pelatihan penguatan positif.
+    </string>
+    <string name="Dachshund">
+        Dachshund adalah anjing dengan postur tubuh panjang yang dikenal dengan kepribadian setia dan energiknya. Mereka adalah pelukis hebat yang sering mengikuti pengasuhnya di sekitar rumah. Karena ras anjing ini ceria dan membutuhkan perawatan yang mudah, ini adalah pilihan ideal untuk orang tua hewan peliharaan yang masih awam. Jika Anda berencana mengadopsi Dachshund, Anda harus tahu bahwa melatih anjing ini bisa sedikit menantang.
+        Namun, Dachshund berkembang dengan pujian dan kata-kata afirmatif, jadi pastikan Anda memilih pelatihan berbasis reward.
+    </string>
+    <string name="Maltese">
+        Maltese dikenal dengan bulu putih lebat dan kepribadian yang senang bermain. Mereka lembut dan penyayang, sehingga membuat mereka menjadi anjing keluarga yang luar biasa. Karena anjing Maltese sangat waspada, mereka juga bisa menjadi penjaga yang hebat. Berkat kecerdasan tinggi mereka, Anda dapat memulai pelatihan Maltese sejak usia dini.
+        Bahkan, mereka senang belajar trik baru... jadi pastikan Anda menginvestasikan waktu dan energi untuk memberikan mereka cukup latihan dan stimulasi mental.
+    </string>
+    <string name="Pomeranian">
+        Pomeranian populer dengan bulu lebat, ekor berbulu, dan wajah mirip rubah. Anjing kecil ini manis dan penyayang terhadap orang yang dicintainya. Namun, jangan tertipu oleh tubuh kecil mereka, karena mereka penuh keberanian dan energi.
+        Mereka adalah anjing yang cerdas, sehingga Anda juga dapat dengan mudah melatih mereka menjadi hewan peliharaan yang patuh
+    </string>
+    <string name="Poodle">
+        Poodle populer dengan sikap elegannya. Mereka hadir dalam berbagai ukuran, termasuk standar, miniatur, dan mainan. Sifat bermain mereka dan kepribadian lembut membuat mereka menjadi hewan peliharaan keluarga yang hebat. Mantel keriting mereka membantu mereka tampil beda dari ras anjing kecil lainnya. Selain sangat cerdas, Poodle juga berkembang dengan perhatian. Sebagai orang tua hewan peliharaan,
+        Anda harus memanfaatkan sifat kepribadian ini dan membentuk hewan peliharaan Anda menjadi anjing yang patuh dan percaya diri melalui pelatihan berbasis reward.
+    </string>
+    <string name="Pug">
+       Pug adalah anjing yang mudah dirawat dan mudah beradaptasi jika hidup di apartemen. Meskipun mereka cerdas, mereka juga keras kepala.
+        Dengan kesabaran dan pelatihan yang konsisten, mereka dapat tumbuh menjadi anjing yang baik. Selain itu, Pug penuh dengan kepribadian – mereka penyayang, lucu, dan menyenangkan. Karena alam mereka yang penuh kasih dan bermain, mereka sempurna untuk keluarga dengan anak-anak. Namun, merawat Pug bisa sedikit sulit.Karena memiliki wajah berkerut, Anda perlu membersihkan lipatan kulit mereka setiap hari.
+    </string>
+    <string name="Jack">
+      Jack Russell energik dan senang bermain. Mereka memiliki kepribadian yang kuat dan berani yang bisa membuat siapa pun terintimidasi. Meskipun mereka independen dan tegas, anjing Jack Russell juga setia. Mereka cerdas dan cepat belajar.
+        Namun, seperti Pug, mereka juga bisa agak keras kepala pada saat-saat tertentu. Jadi, pastikan Anda menggunakan metode pelatihan berbasis reward untuk melatih Jack Russell Anda.
+    </string>
+
+
+    <string name="leonberger">
+      Leonberger adalah anjing ras besar dan kuat yang digambarkan oleh AKC sebagai anjing yang lembut, sabar, dan suka bermain. "Mereka cerdas dan ingin menyenangkan pemiliknya. Meskipun umumnya tenang, Leonberger membutuhkan olahraga berat setidaknya sekali sehari," ucap Burch.
+    </string>
+
+    <string name="labardo">
+      Labrador Retriever Statistik AKC untuk tahun 2020 mengungkapkan anjing besar yang santai ini adalah anjing paling populer di Amerika Serikat dan pemenang Kejuaraan Ketaatan Nasional AKC selama beberapa tahun terakhir. Menurut Burch, anjing ini dapat bekerja di luar ruangan membantu kegiatan manusia, menjadi anjing penjaga, serta merupakan anjing yang patuh dan lincah. Ras anjing ini juga relatif mudah diajak bepergian.
+    </string>
+
+    <string name="golden">
+      Golden Retriever Selalu bersemangat untuk menyenangkan pemiliknya, Golden Retriever menjadi teman yang baik bagi pemilik ras anjing besar pemula. Burch mengatakan, anjing cerdas dan ramah ini unggul dalam banyak kegiatan, termasuk kepatuhan, kelincahan, pekerjaan anjing layanan dan terapi, penyelaman di dermaga, dan banyak lagi. Ras anjing ini pun disebut paling cocok dengan anak-anak.
+    </string>
+
+    <string name="beagle">
+      Beagle adalah anjing yang kompak dengan kaki pendek dan tubuh panjang. Mereka memiliki bulu yang lembut dan pendek yang datang dalam berbagai warna seperti putih, hitam, dan coklat. Mereka suka bermain dan lembut, membuat mereka menjadi teman anjing yang ideal untuk siapa pun yang memiliki anak-anak. Meskipun Beagle mudah dilatih, mereka juga terkenal keras kepala. Namun, anjing ini merespons dengan baik terhadap metode penguatan positif
+    </string>
+
+    <string name="shitzu">
+      Shitzu Dikenal dengan sifat ramah dan penyayang, Shih Tzu cocok sebagai teman setia. Jika Anda mengadopsi Shih Tzu, kemungkinan besar ia akan selalu berselimut di pangkuan Anda saat Anda menonton TV atau membaca koran. Dengan wajah bulat, hidung pesek, mata besar yang berbinar, dan telinga terkulai, anjing ini bisa mencuri hati siapa pun. Karena Shih Tzu adalah anjing yang cerdas, mereka dapat dengan cepat beradaptasi dengan metode pelatihan penguatan positif. Namun, mereka dikenal agak keras kepala; oleh karena itu, sebaiknya mulai pelatihan sejak usia dini.
+    </string>
+
+    <string name="doberman_pinscher">
+       Doberman Pinsche sangat cerdas, belajar dengan mudah, dan merespons dengan cepat. Selain itu, anjing atletis ini juga dapat menjadi sahabat yang penyayang. Namun, Burch memperingatkan bagaimana hanya pemilik anjing berpengalaman yang harus mempertimbangkan Doberman Pinscher.
+    </string>
+
+    <string name="newfoundland">
+       Newfoundland adalah anjing pekerja yang sangat besar dan kuat. Anjing ini dikenal karena sifatnya yang manis dan setia. "Mereka percaya dan dapat dilatih, dengan ketertarikan alami pada anak-anak, membutuhkan olahraga harian seperti berenang dan jalan-jalan," papar Burch.
+    </string>
+
+    <string name="rottweiler">
+       Rottweiler Ras anjing besar ini biasanya mudah dilatih, tetapi para ahli hewan menyarankan agar Rottweiler diberikan tugas untuk membuat mereka senang. Menurut Burch, anjing ini bisa menjadi anjing keluarga yang lembut, yang digambarkan sebagai tenang, percaya diri, protektif. Rottweiler pun memiliki sifat bersemangat untuk bekerja.
+    </string>
+
+    <string name="husky">
+       Hasky
+    </string>
+
+</resources>
